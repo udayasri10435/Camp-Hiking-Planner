@@ -1,10 +1,7 @@
 # 🏕️ Camp Hiking Planner – Full Proposal
 
 **Version:** 1.0  
-**Prepared for:** [Your Name / Organization]  
-**Date:** [Insert Date]  
-**Trip Duration:** [Insert Number of Days]  
-**Location:** [Insert Trail / Campsite Name]
+
 
 ---
 
